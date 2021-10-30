@@ -2,8 +2,6 @@
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 body {
     font-family: 'Lato', sans-serif;
-    color: #FFF;
-    background: #FFFFFF;
     -webkit-font-smoothing: antialiased;
 }
 a {
